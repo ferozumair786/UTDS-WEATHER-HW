@@ -3,15 +3,19 @@
     padding: 0px;
     margin: 1px;
     font-weight: 500;
-    color: #fff;
+    color: black;
   }
   
   .skyblue {
-    background: deepskyblue;
+    background: steelblue;
   }
   
   .forestgreen {
-    background: forestgreen;
+    background: limegreen;
+  }
+
+  .steelgray {
+      background: gainsboro 
   }
 
 /* Native Font Package from Bootstrap Site  */
