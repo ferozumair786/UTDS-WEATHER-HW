@@ -34,4 +34,6 @@
   /* // Emoji fonts */
   "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
 }
+
+@media (max-width: 480px) {}
   
